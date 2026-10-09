@@ -1,0 +1,19 @@
+# 编译产物
+build/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 测试二进制数据
+*.bin
+
+# 模拟日志
+sim_*/
+log/
+log_ca/
+run_log/
+
+# 本地备份
+*_passed.asc
+CMakeLists_scalar_passed.txt
